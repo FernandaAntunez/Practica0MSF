@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
+## Información de la estudiante
  Fernanda Antunez \[22211745]; l22211745@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
